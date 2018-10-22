@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+I make software for fun and profit.
 
-email: agus[at]python.web.id
+email: sammanabdallah[at]gmail.com

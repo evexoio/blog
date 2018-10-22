@@ -1,13 +1,14 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+title: Unsurten lee
+description: My Personal Certainty Problems
+author: Abdullah Samman
+github: https://github.com/evexoio
+about: I don't know what I do, but I know that I know how to code.
+disqus_shortname: evexoio
+google_analytics: UA-97099506-9
+avatar_url: /static/img/avatar2.jpg
 
 enableTags: true
+future: true
 tagarray: []
 
 collections:
@@ -16,20 +17,14 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://twitter.com/evexoio"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/evexoio"
 
 share:
-  twitter_username: agusmakmun6
-  fb_appid: 1749788565247320
+  twitter_username: evexoio
+  fb_appid: 644807489246869
 
 urls:
     - text: About Me
@@ -39,13 +34,13 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://blog.wordhunt.xyz"
 baseurl: ""
-paginate: 20
-per_page: 20
-paginate_path: "/page/:num/"
+# paginate: 20
+# per_page: 20
+# paginate_path: "/page/:num/"
 markdown: kramdown
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
 

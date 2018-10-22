@@ -1,4 +1,6 @@
 _site*
+.DS_Store
 .sass-cache
+s3_website.yml
 .jekyll-metadata
 *backup/
