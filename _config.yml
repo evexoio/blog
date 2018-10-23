@@ -3,7 +3,7 @@ description: My Personal Certainty Problems
 author: Abdullah Samman
 github: https://github.com/evexoio
 about: I don't know what I do, but I know that I know how to code.
-disqus_shortname: evexoio
+disqus_shortname: blog-wordhunt-xyz
 google_analytics: UA-97099506-9
 avatar_url: /static/img/avatar2.jpg
 
@@ -36,12 +36,12 @@ urls:
 
 url: "https://blog.wordhunt.xyz"
 baseurl: ""
-# paginate: 20
-# per_page: 20
-# paginate_path: "/page/:num/"
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
 markdown: kramdown
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-gist
 
 compress_html:
